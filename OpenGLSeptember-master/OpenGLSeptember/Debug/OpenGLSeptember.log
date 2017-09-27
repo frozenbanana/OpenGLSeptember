@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\henry_000\documents\visual studio 2017\projects\openglseptember-master\openglseptember-master\openglseptember\camera.h(56): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\henry_000\documents\visual studio 2017\projects\openglseptember-master\openglseptember-master\openglseptember\camera.h(82): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\henry_000\documents\visual studio 2017\projects\openglseptember-master\openglseptember-master\openglseptember\camera.h(85): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\henry_000\documents\visual studio 2017\projects\openglseptember-master\openglseptember-master\openglseptember\camera.h(94): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGLSeptember.vcxproj -> C:\Users\henry_000\Documents\Visual Studio 2017\Projects\OpenGLSeptember-master\OpenGLSeptember-master\Debug\OpenGLSeptember.exe
+  OpenGLSeptember.vcxproj -> C:\Users\henry_000\Documents\Visual Studio 2017\Projects\OpenGLSeptember-master\OpenGLSeptember-master\Debug\OpenGLSeptember.pdb (Partial PDB)
